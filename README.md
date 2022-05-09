@@ -6,9 +6,9 @@
   - "address" zawiera link
 
 #### Przykład:
-    <name>Talandar Github</name>
-    <tags>Talandar Grześ Grzegorz Cichosz Git Github Talandar Github</tags>
-    <address>https://github.com/Talandar99</address>
+    <name>Jak tworzyć bibliotekę</name>
+    <tags>hyperdrift hyperlinkdrift tutorial</tags>
+    <address>https://github.com/Talandar99/hyperlink-lib/blob/main/README.md</address>
 
 
 
