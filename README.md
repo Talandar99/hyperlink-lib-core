@@ -5,6 +5,7 @@
   - "tags" zawiera tagi czyli frazy po których link ma zostać znaleziony
   - "address" zawiera link
 - biblioteka składa się z wielokrotnie powtórzonych tych 3 elementów
+- link do biblioteki to link do wersji surowej kodu czyli coś takiego: https://raw.githubusercontent.com/Talandar99/hyperlink-lib/main/Talandar.html
 #### Przykład:
     <name>Jak tworzyć bibliotekę</name>
     <tags>hyperdrift hyperlinkdrift tutorial</tags>
